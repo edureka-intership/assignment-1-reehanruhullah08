@@ -188,7 +188,7 @@ margin-left: 32px;
 .linkpage{
 
     position: relative;
-    position: relative;
+    text-decoration:none;
     outline-style: solid;
     top: -231px;
     left: 546px;
